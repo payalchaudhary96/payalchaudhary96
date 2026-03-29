@@ -12,5 +12,5 @@ HTML | CSS | JavaScript | Python
 
 * DOM Practice Project
   
-   -[Github Repo] (https://github.com/payalchaudhary96/dom-practice)
-   -[Live Demo] (https://payalchaudhary96.github.io/dom-practice)
+    - [Github Repo] (https://github.com/payalchaudhary96/dom-practice)
+    - [Live Demo] (https://payalchaudhary96.github.io/dom-practice)
